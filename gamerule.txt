@@ -1,0 +1,20 @@
+Welcome to help desk,
+
+1.Click the start button to play modified game,
+ -Now you will see a board with all color blue.
+ -Then to play the game both the player have to
+   select the sides alternatively
+ -While selecting the side if the selected side 
+   completes a block then respective.
+   player will get the point and a bonus chance .
+ -After all the sides are selected then the game
+   will declare the winner having more point.
+2.Click the classic button to play classic game,
+  i.Here you will get an build in board having dots.
+  ii.Now both the players can draw the sides as 
+    classic game.
+  iii.Here you haves to claculate points your self.
+3.To contact the developers go to about.
+
+Hope your problem is solved.
+
